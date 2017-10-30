@@ -1,10 +1,6 @@
 <h1 align="center">Readme Boilerplate 💕</h1>
 
-<h5 align="center">Readme Boilerplate made with 💕</h5>
-
----
-
-This repository provides ideas for READMEs. It's open source so thoughtful updates and/or suggestions are appreciated. 
+<h5 align="center">This repository provides ideas for READMEs. It's open source so thoughtful updates and/or suggestions are appreciated.</h5>
 
 ---
 
