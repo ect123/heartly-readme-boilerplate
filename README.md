@@ -91,5 +91,5 @@ Here is how navigation is written.
 
 <h2 id="cite">Cites & Thanks</h2>
 
-The Heartly project is a set of lists and, potentially, tools if they're not already made to help make the online discuss more friendly. It moves forward with inspiration from discussions with [Brian Gonzolez](https://www.briangonzalez.org/), [Jason Farmer](https://github.com/jacefarm), [Patrick Fisher](https://github.com/pwfisher), and [Arjan ](https://github.com/arjansingh).
+The Heartly project is a set of lists and, potentially, tools if they're not already made to help make the online discuss more friendly. It moves forward with inspiration from discussions with [Brian Gonzolez](https://www.briangonzalez.org/), [Jason Farmer](https://github.com/jacefarm), [Patrick Fisher](https://github.com/pwfisher), and [Arjan Singh](https://github.com/arjansingh).
 
