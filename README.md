@@ -1,28 +1,30 @@
 <h1 align="center">Readme Boilerplate 💕</h1>
 
-<h5 align="center">This repository provides ideas for READMEs. It's open source so thoughtful updates and/or suggestions are appreciated.</h5>
+<h5 align="center">This repository is a README boilerplate. It's open source so thoughtful updates and/or suggestions are appreciated. This is the readme sub-description</h5>
 
 ---
 
 <p align="center">
   <a href="#standards">Stardards</a>&nbsp;&nbsp;
   <a href="#cite">Cites & Thanks</a>
+  <a href="#standards">Read more about navigations</a>
 </p>
 
 ---
 
+Readmes are used to describe the contents of code repositories. Besides the title, description, and code directory, readmes are the first thing users see. This boilerplate contains items to assist in writing readmes. 
 
 <h2 id="standards">Standards</h2>
 
-In the section below, standards for documenting and sharing Heartly Document is provided. 
+The standard section is the core section of the readme-boilerplate. It contains definitions and context for the rest of the readme-boiler-plate.
 
 ###  Headers
 
-Headers for `readme`'s can include a title `h1`, a pre-description `h5`, and a description `p`. 
+Headers for `readme`'s should include a title `h1`, a sub-description `h5`, and a description `p`. After the header, the readme should contains sections that contain titles `h2` and sub-titles `h3`. 
 
 ---
 
-`<h1>` tags that are written out as `html` rather than `markdown` so that the element is centered.
+The readme boiler plate writes out the title with the `<h1>` tag rather than `markdown` so that the element is centered using the `align` attribute.
 
 ```html
 
