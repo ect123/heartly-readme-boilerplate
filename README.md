@@ -1,13 +1,15 @@
 <h1 align="center">Readme Boilerplate 💕</h1>
 
-<h5 align="center">This repository is a README boilerplate. It's open source so thoughtful updates and/or suggestions are appreciated. This is the readme sub-description</h5>
+<h5 align="center">This repository is a README boilerplate. It's open source. Updates and suggestions are appreciated.</h5>
 
 ---
 
 <p align="center">
   <a href="#standards">Stardards</a>&nbsp;&nbsp;
+  <a href="#headers">Headers</a>&nbsp;&nbsp;
+  <a href="#navigation">Navigation</a>&nbsp;&nbsp;
+  <a href="#api-documentation">API Documentation</a>&nbsp;&nbsp;
   <a href="#cite">Cites & Thanks</a>
-  <a href="#standards">Read more about navigations</a>
 </p>
 
 ---
@@ -81,11 +83,17 @@ There is more than 1 way to approach API documentation. For smaller APIs, readme
 
 #### Table Format
 
-| Name                            | Default                                         | Description                                                                                                                                                                                                                                             |
-|---------------------------------|-------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| initiate                        | `function(){}`                                  | it is initiated                                                                                                                                                            |
-| start                           | `function(){}`                                  | it is started                                                                                                                                         |                                                                                                                                                                            |
+| Name | Default | Description |
+|---|---|---|
+| initiate | `function(){}` | it is initiated |
+| start | `function(){}` | it is started |
 
+```md
+| Name | Default | Description |
+|---|---|---|
+| initiate | `function(){}` | it is initiated |
+| start | `function(){}` | it is started |
+```
 
 ### List Format
 
@@ -98,6 +106,19 @@ There is more than 1 way to approach API documentation. For smaller APIs, readme
      - `function(){}`
      - _example:_ an example
      - a description
+
+```md
+- **API**
+  - **initiate:** `f`
+     - `function(){}`
+     - _example:_ an example
+     - a description
+  - **start:** `f`
+     - `function(){}`
+     - _example:_ an example
+     - a description
+```
+
 
 <h2 id="cite">Cites & Thanks</h2>
 
