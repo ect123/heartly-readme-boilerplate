@@ -122,5 +122,5 @@ There is more than 1 way to approach API documentation. For smaller APIs, readme
 
 <h2 id="cite">Cites & Thanks</h2>
 
-The Heartly project is a set of lists and tools to help make the online code discussions more friendly. It moves forward with inspiration from discussions with [Brian Gonzolez](https://www.briangonzalez.org/), [Jason Farmer](https://github.com/jacefarm), [Patrick Fisher](https://github.com/pwfisher), and [Arjan Singh](https://github.com/arjansingh).
+The Heartly project is a set of lists and tools to help make the online code discussions more friendly. It moves forward with inspiration from discussions with [Brian Gonzalez](https://www.briangonzalez.org/), [Jason Farmer](https://github.com/jacefarm), [Patrick Fisher](https://github.com/pwfisher), and [Arjan Singh](https://github.com/arjansingh).
 
