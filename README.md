@@ -14,7 +14,7 @@
 
 ---
 
-Readmes are used to describe the contents of code repositories. Besides the title, description, and code directory, readmes are the first thing users see. This boilerplate contains items to assist in writing readmes. 
+Readmes are used to describe the contents of code repositories. Besides the title, description, and code directory, readmes are the first thing users see. This boilerplate contains items to assist in writing readmes.
 
 <h2 id="standards">Standards</h2>
 
@@ -22,7 +22,7 @@ The standard section is the core section of the readme-boilerplate. It contains 
 
 ###  Headers
 
-Headers for `readme`'s should include a title `h1`, a sub-description `h5`, and a description `p`. After the header, the readme should contains sections that contain titles `h2` and sub-titles `h3`. 
+Headers for `readme`'s should include a title `h1`, a sub-description `h5`, and a description `p`. After the header, the readme should contains sections that contain titles `h2` and sub-titles `h3`.
 
 ---
 
@@ -43,11 +43,11 @@ The description should describe the product. It follows and linebreak `---`.
 ```markdown
 ---
 
-A description 
+A description
 ```
 
 
---- 
+---
 
 
 All together, this is a header that can be copied.
@@ -59,7 +59,7 @@ All together, this is a header that can be copied.
 
 ---
 
-A description 
+A description
 ```
 
 ### Navigation
@@ -79,7 +79,7 @@ Here is how navigation is written.
 
 ### API Documentation
 
-There is more than 1 way to approach API documentation. For smaller APIs, readmes can document APIs using [tables](#table-format) or [lists](#list-format). 
+There is more than 1 way to approach API documentation. For smaller APIs, readmes can document APIs using [tables](#table-format) or [lists](#list-format).
 
 #### Table Format
 
@@ -119,6 +119,9 @@ There is more than 1 way to approach API documentation. For smaller APIs, readme
      - a description
 ```
 
+## Contributing
+
+Contributing guidelines can define how to file [issues](https://github.com/heartly/readme-boilerplate/issues), contributors, submitting pull requests, and defining how
 
 <h2 id="cite">Cites & Thanks</h2>
 
