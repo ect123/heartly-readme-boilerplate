@@ -1,6 +1,6 @@
-<h1 align="center">Readme Boilerplate 💕</h1>
+<h1><p align="center">Readme Boilerplate 💕</p></h1>
 
-<h5 align="center">This repository is a README boilerplate. It's open source. Updates and suggestions are appreciated.</h5>
+<h5><p align="center">This repository is a README boilerplate. It's open source. Updates and suggestions are appreciated.</p></h5>
 
 ---
 
