@@ -26,7 +26,7 @@ Headers for `readme`'s should include a title `h1`, a sub-description `h5`, and 
 
 ---
 
-The readme boiler plate writes out the title with the `<h1>` tag rather than `markdown` so that the element is centered using the `align` attribute once [marky-markdown issue #404](https://github.com/npm/marky-markdown/issues/404) is fixed. 
+The readme boiler plate writes out the title with the `h1` tag rather than `markdown` so that the element is centered using the `align` attribute once [marky-markdown issue 404](https://github.com/npm/marky-markdown/issues/404) is fixed. 
 
 ```html
 <h1>This a header 💕</h1>
