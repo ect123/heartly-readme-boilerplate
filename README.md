@@ -1,6 +1,6 @@
-# Readme Boilerplate 💕
+<h1>Readme Boilerplate 💕</h1>
 
-##### This repository is a README boilerplate. It's open source. Updates and suggestions are appreciated.
+<h5>This repository is a README boilerplate. It's open source. Updates and suggestions are appreciated.</h5>
 
 ---
 
@@ -26,16 +26,16 @@ Headers for `readme`'s should include a title `h1`, a sub-description `h5`, and 
 
 ---
 
-The readme boiler plate writes out the title with the `<h1>` tag rather than `markdown` so that the element is centered using the `align` attribute.
+The readme boiler plate writes out the title with the `<h1>` tag rather than `markdown` so that the element is centered using the `align` attribute once [marky-markdown issue #404](https://github.com/npm/marky-markdown/issues/404) is fixed. 
 
-```md
-# This a header 💕
+```html
+<h1>This a header 💕</h1>
 ```
 
-The pre-description is added before a full description. It is written on like this.
+The pre-description is added before a full description. It is written on like this so that the element can be centered (see [here](https://github.com/npm/marky-markdown/issues/404) for why it is not currently).
 
-```md
-##### This is a pre-description
+```html
+<h5>This is a pre-description</h5>
 ```
 
 The description should describe the product. It follows and linebreak `---`.
