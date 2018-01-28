@@ -1,6 +1,6 @@
 {
   "name": "heartly-readme-boilerplate",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Heartly README.md boilerplate",
   "main": "README.md",
   "scripts": {
