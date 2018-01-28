@@ -1,6 +1,6 @@
-<h1><p align="center">Readme Boilerplate 💕</p></h1>
+# Readme Boilerplate 💕
 
-<h5><p align="center">This repository is a README boilerplate. It's open source. Updates and suggestions are appreciated.</p></h5>
+##### This repository is a README boilerplate. It's open source. Updates and suggestions are appreciated.
 
 ---
 
@@ -28,14 +28,14 @@ Headers for `readme`'s should include a title `h1`, a sub-description `h5`, and 
 
 The readme boiler plate writes out the title with the `<h1>` tag rather than `markdown` so that the element is centered using the `align` attribute.
 
-```html
-<h1 align="center">This a header 💕</h1>
+```md
+# This a header 💕
 ```
 
 The pre-description is added before a full description. It is written on like this.
 
-```html
-<h5 align="center"This is a pre-description</h5>
+```md
+##### This is a pre-description
 ```
 
 The description should describe the product. It follows and linebreak `---`.
