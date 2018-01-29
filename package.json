@@ -1,10 +1,14 @@
 {
   "name": "heartly-readme-boilerplate",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Heartly README.md boilerplate",
   "main": "README.md",
+  "bin": {
+    "heartly-copy-readme-boilerplate": "./scripts/copy.js"
+  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "eslint": "eslint .",
+    "test": "npm run eslint"
   },
   "repository": {
     "type": "git",
@@ -15,5 +19,14 @@
   "bugs": {
     "url": "https://github.com/heartly/heartly-readme-boilerplate/issues"
   },
-  "homepage": "https://github.com/heartly/heartly-readme-boilerplate#readme"
+  "homepage": "https://github.com/heartly/heartly-readme-boilerplate#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^4.16.0",
+    "eslint-config-standard": "^11.0.0-beta.0",
+    "eslint-plugin-import": "^2.8.0",
+    "eslint-plugin-node": "^5.2.1",
+    "eslint-plugin-promise": "^3.6.0",
+    "eslint-plugin-standard": "^3.0.1"
+  }
 }
