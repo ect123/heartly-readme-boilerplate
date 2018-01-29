@@ -5,10 +5,12 @@
 ---
 
 <p align="center">
+  <a href="#setup">Setup</a>&nbsp;&nbsp;
   <a href="#standards">Stardards</a>&nbsp;&nbsp;
   <a href="#headers">Headers</a>&nbsp;&nbsp;
   <a href="#navigation">Navigation</a>&nbsp;&nbsp;
   <a href="#api-documentation">API Documentation</a>&nbsp;&nbsp;
+  <a href="#testing">Testing</a>&nbsp;&nbsp;
   <a href="#cite">Cites & Thanks</a>
 </p>
 
@@ -16,7 +18,21 @@
 
 Readmes are used to describe the contents of code repositories. Besides the title, description, and code directory, readmes are the first thing users see. This boilerplate contains items to assist in writing readmes.
 
-<h2 id="standards">Standards</h2>
+## Setup
+
+Install Heartly Readme Boilerplate
+```bash
+npm i heartly-readme-boilerplate --save-dev
+```
+
+Copy `DEFAULT_README.md`
+```
+npx copy-heartly-default-readme
+```
+
+Edit `DEFAULT_README.md` to work as needed.
+
+## Standards
 
 The standard section is the core section of the readme-boilerplate. It contains definitions and context for the rest of the readme-boiler-plate.
 
@@ -118,6 +134,19 @@ There is more than 1 way to approach API documentation. For smaller APIs, readme
      - _example:_ an example
      - a description
 ```
+
+----
+
+## Testing
+
+Currently readme render testing is manual. 
+
+## Manual Testing
+
+- Github [Github renderer](http://tmpvar.com/markdown.html) via [Elijah Insua](https://github.com/tmpvar)
+- NPM's [marky-markdown renderer](https://revin.github.io/marky-markdown/) via [Revin Guillen](https://github.com/revin)
+
+----
 
 ## Contributing
 
