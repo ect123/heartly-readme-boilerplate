@@ -26,7 +26,7 @@ npm i heartly-readme-boilerplate --save-dev
 ```
 
 Copy `DEFAULT_README.md`
-```
+```bash
 npx copy-heartly-default-readme
 ```
 
