@@ -1,4 +1,4 @@
-<h1>Readme Boilerplate 💕</h1>
+<h1>Heartly Readme Boilerplate 💕</h1>
 
 <h5>This repository is a README boilerplate. It's open source. Updates and suggestions are appreciated.</h5>
 
