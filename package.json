@@ -1,10 +1,10 @@
 {
   "name": "heartly-readme-boilerplate",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "description": "Heartly README.md boilerplate",
   "main": "README.md",
   "bin": {
-    "heartly-copy-readme-boilerplate": "./scripts/copy.js"
+    "copy-heartly-default-readme": "./scripts/copy.js"
   },
   "scripts": {
     "eslint": "eslint .",
