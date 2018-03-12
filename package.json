@@ -8,7 +8,9 @@
   },
   "scripts": {
     "eslint": "eslint .",
-    "test": "npm run eslint"
+    "markdownlint": "markdownlint *.md",
+    "write-good": "write-good *.md --no-passive",
+    "test": "npm run eslint && npm run markdownlint && npm run write-good"
   },
   "repository": {
     "type": "git",
@@ -20,9 +22,15 @@
     "url": "https://github.com/heartly/heartly-readme-boilerplate/issues"
   },
   "homepage": "https://github.com/heartly/heartly-readme-boilerplate#readme",
-  "dependencies": {},
+  "dependencies": {
+    "commander": "^2.15.0"
+  },
   "devDependencies": {
+    "@babel/core": "^7.0.0-beta.40",
+    "@babel/preset-env": "^7.0.0-beta.40",
     "eslint": "^4.16.0",
-    "eslint-config-dollarshaveclub": "^3.0.5"
+    "eslint-config-dollarshaveclub": "^3.0.5",
+    "markdownlint-cli": "^0.7.1",
+    "write-good": "^0.11.3"
   }
 }
